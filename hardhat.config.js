@@ -20,6 +20,12 @@ module.exports = {
       gasPrice: 20000000000,
       accounts: [keyData],
     },
+    //bsc mainnet
+    bscmainet: {
+      url: 'https://bsc-dataseed.binance.org/',
+      chainId: 56,
+      accounts: [keyData],
+    },
     //eth testnet ropsten
     ropsten: {
       url: `https://ropsten.infura.io/v3/${projectId}`,
