@@ -1,2 +1,0 @@
-# nftmarketstarterkit
-nft market starterkit, 
